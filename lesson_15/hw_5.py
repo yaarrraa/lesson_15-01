@@ -1,4 +1,4 @@
-my_string = input("Please enter: ")
+my_string = input("Please enter your variable: ")
 condition_1 = my_string.isidentifier()
 
 if condition_1:
