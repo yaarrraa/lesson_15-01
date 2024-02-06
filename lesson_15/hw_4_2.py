@@ -1,4 +1,4 @@
-value_list = [1, 0, 3]
+value_list = [1, 3, 5]
 lenth = len(value_list)
 
 sum_of_numbers = 0
